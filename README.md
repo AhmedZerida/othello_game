@@ -15,4 +15,4 @@ This is a simple Othello game implemented in Python using the Tkinter library. T
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/AhmedZerida/othello-game.git
+git clone https://github.com/AhmedZerida/othello_game.git
